@@ -1,4 +1,4 @@
-
+<<<<<<< HEAD
 FROM maven:3.9.11-eclipse-temurin-17 AS build
 
 WORKDIR /app
@@ -20,4 +20,6 @@ COPY --from=build /app/target/*.jar app.jar
 EXPOSE 10000
 
 ENTRYPOINT ["java", "-jar", "app.jar"]
+=======
 
+>>>>>>> 7af2ec4ab882148b9777068d1fb39e76574c80c0
