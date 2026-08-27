@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>CSR Marketing Website</title>
+
+    <link rel="stylesheet" th:href="@{/css/style.css}">
+
+</head>
+
+<body>
+
+<!-- ================= HEADER ================= -->
+
+<header>
+
+    <h1>CSR Marketing Website</h1>
+
+    <nav>
+
+        <a th:href="@{/}">Home</a>
+
+        <a th:href="@{/about}">About</a>
+
+        <a th:href="@{/research}">Research</a>
+
+        <a th:href="@{/multimedia}">Multimedia</a>
+
+        <a th:href="@{/contact}">Contact</a>
+
+    </nav>
+
+</header>
+
+<!-- ================= HERO ================= -->
+
+<section class="hero">
+
+    <div class="hero-content">
+
+        <h2>
+            Social Media as a Tool for Marketing in Corporate Social Responsibility (CSR)
+        </h2>
+
+        <p>
+            Learn how companies use Facebook, Instagram, LinkedIn, YouTube and other social
+            media platforms to promote CSR initiatives, build brand trust and create a
+            positive impact on society.
+        </p>
+
+        <a th:href="@{/about}" class="btn">
+            Learn More
+        </a>
+
+    </div>
+
+</section>
+
+<!-- ================= FEATURES ================= -->
+
+<section class="features">
+
+    <h2>Website Highlights</h2>
+
+    <div class="card-container">
+
+        <div class="card">
+
+            <h3>📚 Research</h3>
+
+            <p>
+                Explore the latest CSR marketing research and real business case studies.
+            </p>
+
+        </div>
+
+        <div class="card">
+
+            <h3>📊 Statistics</h3>
+
+            <p>
+                Discover data, charts and facts about CSR campaigns on social media.
+            </p>
+
+        </div>
+
+        <div class="card">
+
+            <h3>🎥 Multimedia</h3>
+
+            <p>
+                View Posters, Videos, Podcasts and Presentations.
+            </p>
+
+        </div>
+
+        <div class="card">
+
+            <h3>📞 Contact</h3>
+
+            <p>
+                Share your feedback and connect with us.
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- ================= CTA ================= -->
+
+<section class="cta">
+
+    <h2>Join the CSR Digital Movement</h2>
+
+    <p>
+
+        Social Media is transforming the future of Corporate Social Responsibility.
+
+    </p>
+
+    <a th:href="@{/research}" class="btn">
+
+        Explore Research
+
+    </a>
+
+</section>
+
+<!-- ================= FOOTER ================= -->
+
+<footer>
+
+    <h3>CSR Marketing Website</h3>
+
+    <p>
+
+        Social Media as a Tool for Marketing in Corporate Social Responsibility (CSR)
+
+    </p>
+
+    <p>
+
+        © 2026 All Rights Reserved
+
+    </p>
+
+</footer>
+
+<script th:src="@{/js/script.js}"></script>
+
+</body>
+
+</html>
