@@ -1,5 +1,0 @@
-spring.application.name=CSRMarketingWebsite
-
-server.port=8083
-
-spring.thymeleaf.cache=false
