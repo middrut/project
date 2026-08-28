@@ -85,13 +85,13 @@
             </p>
  
             <div class="image-grid">
-                <img th:src="@{/image/img1.png}" alt="CSR">
+                <img th:src="@{/image/img1.jpg}" alt="CSR">
                
-                <img th:src="@{/image/img2.webp}" alt="CSR">
+                <img th:src="@{/image/img2.jpg}" alt="CSR">
                
+                <img th:src="@{/image/img3.jpg}" alt="CSR">
                 <img th:src="@{/image/img4.jpg}" alt="CSR">
-                
-				<p>Refernce From Google</p>
+               
                
                
                
@@ -206,7 +206,6 @@
                 <h3>CSR Poster</h3>
  
                 <img th:src="@{/poster/csr-poster.png}" alt="CSR">
-				<p>Refernce From Google</p>
  
             </div>
  
@@ -226,8 +225,7 @@
                     Your browser does not support video playback.
  
                 </video>
-				
-				<p>Refernce From Google</p>
+ 
             </div>
  
  
@@ -245,8 +243,7 @@
                     View Presentation
  
                 </a>
-                    
-				<p>Refernce From Google</p>
+ 
             </div>
  
         </div>
@@ -271,9 +268,9 @@
                 <source
                     src="/audio/background.mp3"
                     type="audio/mpeg">
-					
+ 
             </audio>
-			<p>Refernce From Google</p>
+ 
         </div>
  
     </section>

@@ -1,0 +1,7 @@
+<audio id="backgroundMusic" loop>
+    <source src="/audio/background.mp3" type="audio/mpeg">
+</audio>
+
+<button id="musicButton" class="btn">
+    Play Music
+</button>
