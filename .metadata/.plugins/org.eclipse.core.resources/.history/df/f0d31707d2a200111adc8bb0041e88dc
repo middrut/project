@@ -36,33 +36,35 @@
 
     <!-- ================= HERO ================= -->
 
-	<section id="home" class="hero">
-	
-	    <div class="hero-overlay">
-	
-	        <div class="hero-content">
-	
-	            <h2>
-	                Social Media as a Tool for Marketing in
-	                Corporate Social Responsibility (CSR)
-	            </h2>
-	
-	            <p>
-	                Learn how companies use Facebook, Instagram,
-	                LinkedIn, YouTube and other social media platforms
-	                to promote CSR initiatives, build brand trust
-	                and create a positive impact on society.
-	            </p>
-	
-	            <a href="#about" class="btn">
-	                Learn More
-	            </a>
-	
-	        </div>
-	
-	    </div>
-	
-	</section>
+    <section id="home" class="hero">
+
+        <div class="hero-overlay">
+
+            <div class="hero-content">
+
+                <h2>
+                    Social Media as a Tool for Marketing in
+                    Corporate Social Responsibility (CSR)
+                </h2>
+
+                <p>
+                    Learn how companies use Facebook, Instagram,
+                    LinkedIn, YouTube and other social media platforms
+                    to promote CSR initiatives, build brand trust
+                    and create a positive impact on society.
+                </p>
+
+                <a href="#about" class="btn">
+                    Learn More
+                </a>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
     <!-- ================= ABOUT ================= -->
 
     <section id="about" class="section">

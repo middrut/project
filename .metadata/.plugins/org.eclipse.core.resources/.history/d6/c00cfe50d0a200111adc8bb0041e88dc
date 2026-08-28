@@ -8,7 +8,7 @@
     <title>CSR Marketing Website</title>
 
     <!-- CSS -->
-	<link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/style.css">
 </head>
 
 <body>
@@ -36,33 +36,35 @@
 
     <!-- ================= HERO ================= -->
 
-	<section id="home" class="hero">
-	
-	    <div class="hero-overlay">
-	
-	        <div class="hero-content">
-	
-	            <h2>
-	                Social Media as a Tool for Marketing in
-	                Corporate Social Responsibility (CSR)
-	            </h2>
-	
-	            <p>
-	                Learn how companies use Facebook, Instagram,
-	                LinkedIn, YouTube and other social media platforms
-	                to promote CSR initiatives, build brand trust
-	                and create a positive impact on society.
-	            </p>
-	
-	            <a href="#about" class="btn">
-	                Learn More
-	            </a>
-	
-	        </div>
-	
-	    </div>
-	
-	</section>
+    <section id="home" class="hero">
+
+        <div class="hero-overlay">
+
+            <div class="hero-content">
+
+                <h2>
+                    Social Media as a Tool for Marketing in
+                    Corporate Social Responsibility (CSR)
+                </h2>
+
+                <p>
+                    Learn how companies use Facebook, Instagram,
+                    LinkedIn, YouTube and other social media platforms
+                    to promote CSR initiatives, build brand trust
+                    and create a positive impact on society.
+                </p>
+
+                <a href="#about" class="btn">
+                    Learn More
+                </a>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
     <!-- ================= ABOUT ================= -->
 
     <section id="about" class="section">
@@ -85,9 +87,12 @@
             </p>
 
             <div class="image-grid">
-				<img src="/images/img1.jpg" alt="CSR Activity">
-				<img src="/images/img2.jpg" alt="CSR Campaign">
-				<img src="/images/img3.jpg" alt="CSR Initiative">
+
+                <img src="/images/img1.jpg" alt="CSR Activity">
+
+                <img src="/images/img2.jpg" alt="CSR Campaign">
+
+                <img src="/images/img3.jpg" alt="CSR Initiative">
 
             </div>
 
@@ -303,7 +308,7 @@
 
     <!-- JavaScript -->
 
-	<script src="/js/script.js"></script>
+    <script src="/js/script.js"></script>
 
 </body>
 

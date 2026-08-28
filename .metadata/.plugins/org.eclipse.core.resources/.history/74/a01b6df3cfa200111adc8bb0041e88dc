@@ -63,17 +63,23 @@ nav a:hover {
 
 .hero {
     min-height: 650px;
-    background-image: url('/images/hero.jpg');
+
+    background-image:
+        url('/images/hero.jpg');
+
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
+
     position: relative;
 }
+
 .hero-overlay {
     min-height: 650px;
+
     display: flex;
     align-items: center;
     justify-content: center;
+
     background: rgba(0, 0, 0, 0.55);
 }
 
