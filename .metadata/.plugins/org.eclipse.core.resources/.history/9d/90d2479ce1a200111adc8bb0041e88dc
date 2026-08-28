@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html xmlns:th="http://www.thymeleaf.org">
 <html lang="en">
 
 <head>
@@ -95,7 +94,9 @@
 				<img th:src="@{/images/csr-poster.png}" alt="CSR">
 				
 				
-				
+				<video controls poster="/images/csr-poster.png">
+				    <source src="/videos/csr-video.mp4" type="video/mp4">
+				</video>
             </div>
 
         </div>
