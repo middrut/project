@@ -8,7 +8,7 @@
     <title>CSR Marketing Website</title>
 
     <!-- CSS -->
-	<link rel="stylesheet" th:href="@{/css/style.css}">
+	<link rel="stylesheet" href="/css/style.css">
 </head>
 
 <body>
@@ -85,18 +85,10 @@
             </p>
 
             <div class="image-grid">
-				<img th:src="@{/images/img1.jpg}" alt="CSR">
-				
-				<img th:src="@{/images/img2.jpg}" alt="CSR">
-				
-				<img th:src="@{/images/img3.jpg}" alt="CSR">
-				
-				<img th:src="@{/images/csr-poster.png}" alt="CSR">
-				
-				
-				<video controls poster="/images/csr-poster.png">
-				    <source src="/videos/csr-video.mp4" type="video/mp4">
-				</video>
+				<img src="/images/img1.jpg" alt="CSR Activity">
+				<img src="/images/img2.jpg" alt="CSR Campaign">
+				<img src="/images/img3.jpg" alt="CSR Initiative">
+
             </div>
 
         </div>
@@ -278,8 +270,6 @@
         </div>
 
     </section>
-	
-	
 
 
     <!-- ================= CONTACT ================= -->
