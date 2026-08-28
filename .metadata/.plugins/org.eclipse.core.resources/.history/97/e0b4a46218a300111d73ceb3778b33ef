@@ -374,18 +374,24 @@
 	
 	    <iframe
 		src="https://www.google.com/maps?q=Canada&output=embed">
-	        width="100%"
+	        width="500%"
 	        height="400"
-	        allowfullscreen=""
+	        style="border: 0;"
+	        allowfullscreen
 	        loading="lazy"
 	        referrerpolicy="no-referrer-when-downgrade">
 	    </iframe>
 	</div>
-	
+	```
 	
 	</section>
 
 	
+	
+	
+	
+
+ 
     <!-- ================= FOOTER ================= -->
  
     <footer>
