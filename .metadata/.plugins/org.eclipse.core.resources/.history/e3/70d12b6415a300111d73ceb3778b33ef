@@ -505,12 +505,12 @@ box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
    CONTACT
    ========================================================= */
 
-.contact {
+#contact {
     background: white;
     text-align: center;
 }
 
-contact p {
+#contact p {
     max-width: 800px;
     margin: auto;
 }
@@ -605,4 +605,3 @@ footer {
     .image-grid img {
         height: 240px;
     }
-}}
