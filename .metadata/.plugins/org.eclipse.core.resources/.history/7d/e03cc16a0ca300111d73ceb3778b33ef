@@ -8,7 +8,7 @@
 
     <title>CSR Marketing Website</title>
 
-    <link rel="stylesheet" th:href="@{/CSS/style.css}">
+    <link rel="stylesheet" th:href="@{/css/style.css}">
 
 </head>
 
